@@ -1,4 +1,4 @@
-This is for tech-challenge information.
+Provides information on terrafform iaac
 
 Source Control
 https://github.com/uturndata-public/tech-challenge-preetham
