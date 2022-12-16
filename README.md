@@ -1,8 +1,5 @@
 Provides information on terrafform iaac
 
-Source Control
-https://github.com/uturndata-public/tech-challenge-preetham
-
 
 CI/CD Jenkins Pipeline:
 http://localhost:8080/job/Tech-Challenge/
